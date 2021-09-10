@@ -11,3 +11,6 @@ Iniciamos por primera vez
 
 
 cuando el proyecto ya esta creado
+
+como clonar el repositorio
+- git clone https://github.com/06milena/CRUD-contactos-terminal-con-MySQL.git
