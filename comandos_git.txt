@@ -1,0 +1,13 @@
+Iniciamos por primera vez
+    - git init => Inicia un proyecto de git en la carpeta
+        actual
+    - git status => estado actual de repositorio comparado
+        con la version anterior
+    - git add . => agrega todo los cambios
+    - git commit -m 'Iniciando repositorio'
+    - git remote agregar origen https://github.com/06milena/Introduccion_Python.git
+    - git branch -M main 
+
+
+
+cuando el proyecto ya esta creado
